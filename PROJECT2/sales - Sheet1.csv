@@ -1,0 +1,16 @@
+customer_id,product_id,category,sold_price
+CS001,P020,Audio,1800
+CS002,P014,Audio,1400
+CS002,P003,Audio,1300
+CS004,P005,Computing,1900
+CS005,P004,Computing,5200
+CS005,P013,Computing,2500
+CS002,P007,Audio,1600
+CS008,P015,Wearables,1100
+CS001,P009,Computing,2500
+CS015,P010,Wearables,1100
+CS011,P021,Wearables,1000
+CS011,P012,Audio,1700
+CS014,P018,Audio,2200
+CS014,P002,Wearables,900
+CS015,P024,Computing,2500
